@@ -10,7 +10,7 @@ funtion multiply(x) (
 
 -- YOUR ANSWER HERE --
 
-## Explain each of the below versins of writing functions
+## Explain each of the below versions of writing functions
 
 For each, answer:
 - Is this ES5 or ES6?
@@ -89,7 +89,7 @@ var obj = {
 
 ```js
 var i = 0
-for ( console.log('Bob'); (console.log('Curly') === undefined); console('Mo') ) { 
+for ( console.log('Bob'); (console.log('Curly') === undefined); console.log('Mo') ) {
   console.log(++i)
   if (i >= 2)
     break
